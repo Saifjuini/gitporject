@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="e6eccffe-b809-4941-972d-f35c482c8820" name="Changes" comment="" />
+=======
     <list default="true" id="e6eccffe-b809-4941-972d-f35c482c8820" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mainbank/gitprojject/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mainbank/gitprojject/HelloApplication.java" afterDir="false" />
     </list>
+>>>>>>> saifbranch
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +46,7 @@
   "keyToString": {
     "Application.HelloApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "saifbranch",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
